@@ -32,3 +32,18 @@ git init
 |git stash|暂存|
 |git remote|远程分支|
 |git push origin xx|推送远程分支|
+|git fetch -p|同步远程分支信息|
+|git rebase|变基|
+
+### 项目管理规范
+
+1.master、release、feature、hotfix、issue
+
+```master稳定代码分支,每次发布后,代码合并到master,合并之前打好tag,tag命名规范和描述```
+
+2.命名规范
+
+```
+release/v1.0.0_20200321
+feature/v1.0.0_20200321
+```
