@@ -28,3 +28,4 @@ git init
 |git reset --hard commitid|返回指定提交记录|
 |git checkout -- readme.txt|丢弃掉工作区的修改|
 |git reset HEAD readme.txt|把暂存区的修改撤销掉|
+|git log --graph|查看分支合并情况|
