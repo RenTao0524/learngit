@@ -29,3 +29,5 @@ git init
 |git checkout -- readme.txt|丢弃掉工作区的修改|
 |git reset HEAD readme.txt|把暂存区的修改撤销掉|
 |git log --graph|查看分支合并情况|
+|git stash|暂存|
+|git remote|远程分支|
