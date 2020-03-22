@@ -10,6 +10,7 @@ git init
 
 ### 工作区和暂存区(stage)
 
+### [git远程仓库](https://www.liaoxuefeng.com/wiki/896043488029600/896954117292416)
 
 ### git常用指令用法
 
