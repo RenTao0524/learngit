@@ -1,4 +1,4 @@
-@[TOC] git常用指令
+@[TOC] git用法
 
 ### 初始化本地仓库
 
@@ -7,6 +7,9 @@ mkdir learngit
 cd learngit
 git init
 ```
+
+### 工作区和暂存区(stage)
+
 
 ### git常用指令用法
 
