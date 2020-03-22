@@ -18,5 +18,7 @@ git init
 |git diff file||
 |git commit -m 'xx'||
 |git log|查看提交详细日志|
+|git reflog|记录每一次命令|
 |git log --pretty=oneline|查看简化提交日志|
 |git reset --hard HEAD^|返回上一次提交记录|
+|git reset --hard commitid|返回指定提交记录|
