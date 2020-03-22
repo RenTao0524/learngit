@@ -25,3 +25,5 @@ git init
 |git log --pretty=oneline|查看简化提交日志|
 |git reset --hard HEAD^|返回上一次提交记录|
 |git reset --hard commitid|返回指定提交记录|
+|git checkout -- readme.txt|丢弃掉工作区的修改|
+|git reset HEAD readme.txt|把暂存区的修改撤销掉|
