@@ -5,3 +5,5 @@ Git tracks changes.
 wewe
 Creating a new branch is quick.
 test
+
+stash
