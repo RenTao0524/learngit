@@ -31,3 +31,4 @@ git init
 |git log --graph|查看分支合并情况|
 |git stash|暂存|
 |git remote|远程分支|
+|git push origin xx|推送远程分支|
